@@ -1,6 +1,6 @@
 # AI-Anywhere-Release
 
-AI Anywhere is a copilot that assists users in copywriting, reading, programming, communication, and more. As a local software, it works seamlessly with all your favorite apps and websites. It is designed to boost productivity and make your life easier.
+[AI Anywhere](https://www.ai-anywhere.com/) is a copilot that assists users in copywriting, reading, programming, communication, and more. As a local software, it works seamlessly with all your favorite apps and websites. It is designed to boost productivity and make your life easier.
 
 ## Features
 
