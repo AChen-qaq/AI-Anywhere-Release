@@ -23,3 +23,5 @@ Your feedback is invaluable for improvement, so give it a try and share your tho
 We're working on making AI Anywhere a personalized AI assistant that truly understands your unique needs and preferences. Stay updated by following us on [Product Hunt](https://www.producthunt.com/posts/ai-anywhere-beta) and [Twitter](https://twitter.com/UseAIAnywhere)!
 
 So why wait? Supercharge your productivity with AI Anywhere today!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcUqJRywBVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
